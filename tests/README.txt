@@ -1,1 +1,1 @@
-This folder contains the tests for the Library Management System.
+This folder contains the tests file for the Library Management System.
