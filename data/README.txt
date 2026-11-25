@@ -1,1 +1,1 @@
-CSV data files are created here automatically when you choose Save and exit.
+This folder contains CSV files for storing book and member information used by the Library Management System.
